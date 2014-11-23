@@ -1,6 +1,6 @@
-####LinuxOutlaws Exxx####
+##LinuxOutlaws Exxx##
 
-###Letter: 2013-08-05 00:35###
+####Letter: 2013-08-05 00:35####
 
 Hi it will problably a long email so I have made an index in case you
 want to jump to certain parts kind of like the text walk-through guides
@@ -155,7 +155,7 @@ http://www.tandfonline.com/doi/abs/10.1198/tas.2011.09076#.Uf7U91N0wpQ
 [9]
 https://trisquel.info/en/forum/how-do-you-get-your-movies#comment-36551
 
-###Letter: 2014-11-23 23:xx###
+####Letter: 2014-11-23 23:xx####
 
 Hello Outlaws,
 
@@ -174,7 +174,8 @@ xkcd thing and publish it. See what happens.
 Anyway I will try to put this in the gitorius so people can add to it fork or 
 whatever. Frankly I do not know the first thin.  Would suggest following the 
 recomendation on LinuxVoice and write it on Markdown so that it can be ported to
-TeX, ODF, HTML and such.
+TeX, ODF, HTML and such. But as some might judge by the document I do not know 
+the first thing about MarkDown.
 
 Should be somewhere here:
 https://github.com/amunizp/LinuxOutlawsFeedback
