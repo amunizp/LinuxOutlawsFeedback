@@ -168,11 +168,11 @@ Anyway. I thought it would be a good idea to take you up on the offer as a
 goodbye and create a book out of the feedback I sent you. Given it was so long.
 But how about if everybody added to it all the letters they can find and make a 
 really big book. Something with the show notes as an introduction for chapters
-and maybe some notes of whay you remember. Hell, maybe you can try to do an 
+and maybe some notes of what you remember. Hell, maybe you can try to do an 
 xkcd thing and publish it. See what happens.
 
 Anyway I will try to put this in the gitorius so people can add to it fork or 
-whatever. Frankly I do not know the first thin.  Would suggest following the 
+whatever. Frankly I do not know the first thing.  Would suggest following the 
 recomendation on LinuxVoice and write it on Markdown so that it can be ported to
 TeX, ODF, HTML and such. But as some might judge by the document I do not know 
 the first thing about MarkDown.
